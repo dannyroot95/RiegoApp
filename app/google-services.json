@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "113621571258",
+    "firebase_url": "https://plantiot-37850-default-rtdb.firebaseio.com",
+    "project_id": "plantiot-37850",
+    "storage_bucket": "plantiot-37850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113621571258:android:22b7566caadae03ee39483",
+        "android_client_info": {
+          "package_name": "com.electric.liquid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQpMQYqMlu77-cY32SKzDqFiW38ohJ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
